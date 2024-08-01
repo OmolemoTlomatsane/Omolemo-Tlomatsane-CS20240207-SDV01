@@ -1,87 +1,131 @@
+Personal Information
+Name: Omolemo Tlomatsane
+Date: August 1, 2024
+Current Role/Position: Coding Student at Codespace Academy
+Field of Interest: Software Development, Education, Forex Trading
 
-# Career Goals Reflection Template
+Part 1: Self-Assessment Reflection
+Skills Analysis
+Current Skills and Areas of Expertise:
 
-### Introduction to the Template
+Programming languages: Dart (Flutter), Python
+Web development: HTML, CSS
+Lesson planning and teaching experience
+Basic knowledge of forex trading
+App development and design
+Skills to Develop or Improve:
 
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
+Advanced coding skills (e.g., JavaScript, React)
+Backend development (e.g., Node.js, SQL)
+Data structures and algorithms
+Advanced forex trading strategies
+Project management and leadership skills
+Interests and Values
+Key Interests Related to Career:
 
-### Instructions for Using the Template:
+Building and developing apps
+Teaching and education technology
+Financial markets and trading
+Continuous learning and skill development
+Important Values in a Work Environment:
 
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
+Innovation and creativity
+Collaborative and supportive team environment
+Opportunities for growth and development
+Flexibility and work-life balance
+Part 2: Career Exploration Insights
+Industries and Roles Explored
+Industries or Roles Researched:
 
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
+Software Development (App Development, Web Development)
+Education Technology (EdTech)
+Financial Technology (FinTech, Forex Trading)
+Project Management
+Particular Areas of Interest:
 
-### Personal Information
+Developing educational apps to enhance learning experiences
+Creating tools for financial trading and analysis
+Working in startups or innovative tech companies
+Alignment with Personal Profile
+Reflection on Alignment:
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+Software Development: Strong alignment with current skills in coding and app development. Interest in building useful applications matches industry demands.
+Education Technology: Matches teaching experience and interest in improving education through technology.
+Financial Technology: Aligns with interest in forex trading and desire to develop tools for financial markets.
+Gaps or Areas for Further Exploration:
 
-### Part 1: Self-Assessment Reflection
+Need to gain more experience in backend development and advanced programming.
+Further exploration of the FinTech industry to understand specific opportunities and roles.
+Understanding project management methodologies and best practices.
+Part 3: SMART Career Goals
+Short-term Goals (Next 1-2 years)
+Goals:
 
-1. **Skills Analysis**:
-    
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
-2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+Complete Advanced Coding Courses:
 
-### Part 2: Career Exploration Insights
+Specific: Enroll in and complete courses in JavaScript, React, and backend development.
+Measurable: Completion of at least 3 advanced courses with certifications.
+Achievable: Courses available through Codespace Academy and online platforms.
+Relevant: Necessary skills for app and web development.
+Time-bound: Within the next 12 months.
+Develop a Financial Trading App:
 
-1. **Industries and Roles Explored**:
-    
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
-2. **Alignment with Personal Profile**:
-    
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+Specific: Design and build an app for forex trading analysis.
+Measurable: Complete a functional prototype and gather user feedback.
+Achievable: Utilize current coding skills and seek mentorship if needed.
+Relevant: Combines interests in coding and forex trading.
+Time-bound: Prototype ready in 18 months.
+Long-term Goals (3-5 years and beyond)
+Goals:
 
-### Part 3: SMART Career Goals
+Become a Senior Software Developer:
 
-1. **Short-term Goals** (Next 1-2 years):
-    
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
-2. **Long-term Goals** (3-5 years and beyond):
-    
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+Specific: Work in a leading tech company or startup as a senior developer.
+Measurable: Achieve a senior role with responsibilities in project management and mentorship.
+Achievable: Build on short-term goals and gain relevant experience.
+Relevant: Aligns with career aspirations in software development.
+Time-bound: Within 5 years.
+Start an EdTech Company:
 
-### Part 4: Action Plan
+Specific: Establish a company focused on developing educational technology solutions.
+Measurable: Launch the company and develop at least one marketable product.
+Achievable: Leverage experience in education and app development.
+Relevant: Combines passion for education and technology.
+Time-bound: Within the next 5 years.
+Part 4: Action Plan
+Steps to Achieve Short-term Goals
+Complete Advanced Coding Courses:
 
-1. **Steps to Achieve Short-term Goals**:
-    
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
-2. **Preparation for Long-term Goals**:
-    
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+Research and enroll in relevant courses.
+Dedicate regular study time and complete assignments.
+Seek help from mentors or peers when needed.
+Develop a Financial Trading App:
 
-### Part 5: Reflection on Challenges and Opportunities
+Outline the app's features and functionalities.
+Start building the app, focusing on key features first.
+Gather feedback from potential users and iterate on the design.
+Preparation for Long-term Goals
+Become a Senior Software Developer:
 
-1. **Anticipated Challenges**:
-    
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
-2. **Opportunities for Growth**:
-    
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+Gain experience through internships or junior roles.
+Take on leadership roles in projects.
+Continuously update and expand technical skills.
+Start an EdTech Company:
 
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
-
+Research the EdTech market and identify gaps.
+Develop a business plan and seek funding or partnerships.
+Network with educators and tech professionals for insights and support.
+Part 5: Reflection on Challenges and Opportunities
+Anticipated Challenges
+Balancing Studies and Project Work: Managing time effectively to ensure progress in both areas.
+Technical Skill Gaps: Overcoming difficulties in learning advanced programming concepts.
+Market Competition: Standing out in the competitive EdTech and FinTech industries.
+Strategies to Overcome Challenges
+Time Management: Create a structured schedule and set priorities.
+Continuous Learning: Utilize online resources, attend workshops, and seek mentorship.
+Innovation: Focus on unique value propositions and innovative solutions.
+Opportunities for Growth
+Networking: Join professional groups and attend industry events.
+Mentorship: Seek guidance from experienced professionals in the field.
+Education: Take advantage of educational opportunities, such as courses and certifications.
 
